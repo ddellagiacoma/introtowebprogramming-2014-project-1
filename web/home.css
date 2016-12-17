@@ -1,0 +1,73 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+  
+}
+.creagruppo .sottotitoli{
+  margin-bottom: 10px;
+}
+.creagruppo {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+
+.creagruppo .form-control {
+  position:relative;
+  font-size: 10px;
+  height: auto;
+ 
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.creagruppo .form-control:focus {
+  z-index: 2;
+}
+
+.imieigruppi{
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.imieigruppi .sottotitoli{
+  margin-bottom: 10px;
+}
+
+.imieigruppi .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.imieigruppi .form-control:focus {
+  z-index: 2;
+}
+
+
+.upload{
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.upload .sottotitoli{
+  margin-bottom: 10px;
+}
+
+.upload .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.upload .form-control:focus {
+  z-index: 2;
+}
